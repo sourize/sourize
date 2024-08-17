@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 My Personal Website is at [Webpage](https://nexalyze.github.io)
+- 👨‍💻 My Personal Website is at [Webpage](https://sourish-ml.github.io)
 
 - 💬 Ask me about **Python,ML,DA,GCP**
 
