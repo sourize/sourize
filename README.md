@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **contact.sourishchatterjee@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OTcnhqZijOiUjXdz07BewVrX0u6Hi8zy/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1wbLEqZ0BevhkXlpXFFSbZd1XEQ1_k317/view?usp=sharing)
 
 - ⚡ Fun fact **I was inspired by the movie Iron Man to specialize in AI and ML!**
 
