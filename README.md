@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 My Personal Website is at [Webpage](https://sourish-ml.github.io)
+- 👨‍💻 My Personal Website is at [Webpage](https://sourize.github.io)
 
 - 💬 Ask me about **Python,ML,DA,GCP**
 
 - 📫 How to reach me **contact.sourishchatterjee@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1wbLEqZ0BevhkXlpXFFSbZd1XEQ1_k317/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tK2OLke6GF2T6nWKRn_G4N4wTuElCSwf/view?usp=sharing)
 
 - ⚡ Fun fact **I was inspired by the movie Iron Man to specialize in AI and ML!**
 
