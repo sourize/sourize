@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 My Personal Website is at [Webpage](https://sourize.github.io)
+- 👨‍💻 My Personal Website is at [Webpage](https://sourish.vercel.app)
 
 - 💬 Ask me about **Python,ML,DA,GCP**
 
