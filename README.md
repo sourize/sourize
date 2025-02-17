@@ -1,8 +1,6 @@
 <h2 align="center">Hi 👋, I'm Sourish Chatterjee</h2>
 <h4 align="center">An Aspiring ML Engineer</h4>
 
-- 🌱 I’m currently learning **Deep Learning**
-
 - 👨‍💻 My Personal Website is at [sourish.xyz](https://sourish.vercel.app)
 
 - 💬 Ask me about **Python,ML,DA,GCP**
