@@ -9,17 +9,13 @@
 
 - 🔭 I’m currently working on **my DSA skills along with a focus on ML/DL projects!**
 
-- 🌱 I’m currently learning **more about ML with special domains like NLP, Gen AI, Anomaly Detection…**
-
-- 👯 I’m looking to collaborate on **ML/AI research (Generative AI, Anomaly Detection)**
-
-- 🤝 I’m looking for help with **Model fine-tuning & scalable ML deployment**
+- 🌱 I’m currently learning **more about ML with special focus on domains like NLP, Gen AI, Anomaly Detection, etc,.......**
 
 - 👨‍💻 All of my projects are available at [sourish.xyz](sourish.xyz)
 
 - 📝 I regularly write articles on [https://sourish.xyz/blog](https://sourish.xyz/blog)
 
-- 💬 Ask me about **anything on ML, LSTM, Marvel 😄**
+- 💬 Ask me about **anything on ML, LSTM, Autoencoders, Marvel 😄**
 
 - 📫 How to reach me **contact.sourishchatterjee@gmail.com**
 
