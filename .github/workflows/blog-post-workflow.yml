@@ -10,8 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repo (disable auto-credentials)
         uses: actions/checkout@v2
+        with:
+          # don’t persist GITHUB_TOKEN into Git remotes
+          persist-credentials: false
 
       - name: Update README with latest blog posts
         uses: gautamkrishnar/blog-post-workflow@master
