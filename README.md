@@ -25,6 +25,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DeepTalks: Your Personal AI Companion](https://sourish.xyz/blog/deeptalks-your-personal-ai-companion/)
+- [Detecting Anomalies in Ships Using AIS Data: A Deep Learning Approach](https://sourish.xyz/blog/anomaly-detection/)
+- [Understanding &#39;Attention is All You Need&#39; Paper](https://sourish.xyz/blog/attention-is-all-you-need/)
+- [How Great Leaders Inspire Action: A Lesson from Simon Sinek&#39;s TED Talk](https://sourish.xyz/blog/how-great-leaders-inspire-action/)
+- [Predicting NIFTY50 Stock Prices with LSTM](https://sourish.xyz/blog/predicting-nifty50-stock-prices-with-lstm/)
+- [Our Journey to the Smart India Hackathon 2024: From Idea to Internal Round Success](https://sourish.xyz/blog/sih2024/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
