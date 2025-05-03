@@ -6,31 +6,20 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update README with latest blog posts
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v2
 
-      - name: Run blog-post-workflow
+      - name: Update README with latest blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: 4
+          gh_token: ${{ secrets.PERSONAL_TOKEN }}    # ← use your PAT here
+          max_post_count: 6
           feed_list: https://sourish.xyz/rss.xml
-          output_only: true  # disables auto-push
-
-      - name: Configure Git
-        run: |
-          git config --global user.name "blog-post-bot"
-          git config --global user.email "blog-post-bot@example.com"
-
-      - name: Commit and Push using PERSONAL_TOKEN
-        env:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-        run: |
-          git add README.md
-          git commit -m "Updated with the latest blog posts" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${PERSONAL_TOKEN}@github.com/sourize/sourize.git
-          git push origin main
+          readme_path: ./README.md
+          commit_message: "Updated with the latest blog posts"
+          committer_username: blog-post-bot
+          committer_email: blog-post-bot@example.com
