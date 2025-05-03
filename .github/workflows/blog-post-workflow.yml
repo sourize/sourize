@@ -1,31 +1,32 @@
 name: Latest blog post workflow
 
-on: 
+on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
 
-jobs: 
-  update-readme-with-blog: 
-    name: Update this repo's README with latest blog posts
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
 
-    steps: 
+    steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Run blog post workflow
+      - name: Run blog-post-workflow
         uses: gautamkrishnar/blog-post-workflow@master
-        with: 
-          max_post_count: "4"
-          feed_list: "https://sourish.xyz/rss.xml"
+        with:
+          max_post_count: 4
+          feed_list: https://sourish.xyz/rss.xml
+          output_only: true  # disables auto-push
 
       - name: Configure Git
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "blog-post-bot"
+          git config --global user.email "blog-post-bot@example.com"
 
-      - name: Commit and push changes using PAT
+      - name: Commit and Push using PERSONAL_TOKEN
         env:
           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
