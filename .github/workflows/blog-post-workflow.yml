@@ -3,7 +3,7 @@ name: Latest blog post workflow
 on: 
   schedule:
     - cron: '0 * * * *'
-  workflow_dispatch:  # Allow manual triggering
+  workflow_dispatch:
 
 jobs: 
   update-readme-with-blog: 
@@ -20,11 +20,16 @@ jobs:
           max_post_count: "4"
           feed_list: "https://sourish.xyz/rss.xml"
 
-      - name: Commit and push changes
+      - name: Configure Git
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes using PAT
+        env:
+          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+        run: |
           git add README.md
           git commit -m "Updated with the latest blog posts" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/sourize/sourize.git
+          git remote set-url origin https://x-access-token:${PERSONAL_TOKEN}@github.com/sourize/sourize.git
           git push origin main
