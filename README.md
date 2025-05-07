@@ -1,7 +1,7 @@
-```
+```ml
 > mlfetch
 ```
-```
+```python
 sourize@github
 -------------------------
 OS: Windows 11 x64
