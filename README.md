@@ -15,6 +15,13 @@ Languages: Python, C, Java, SQL
 Hobbies: Binging Movies, Series & Reading Manuhas 
 𝕏 : sourize_
 ```
+```python
+A little bit about me
+-------------------------
+An aspiring ML Engineer studying CSE with a Specialization in AI/ML
+Learning and upskilling myself regularly, understanding & implementing in my works.
+Check out my works in my github & my hugging face profile.
+```
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
