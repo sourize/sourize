@@ -9,7 +9,7 @@ Shell: bash
 Uptime: 21 years
 Python: 3.10
 GPU: Kaggle GPU
-Editor: VSCode, Trae
+Editor: VSCode, Cursor
 Terminal: Windows
 Languages: Python, C, Java, SQL
 Hobbies: Binging Movies, Series & Reading Manuhas 
