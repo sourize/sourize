@@ -1,19 +1,5 @@
 ```ml
-> mlfetch
-```
-```python
-sourize@github
--------------------------
-OS: Windows 11 x64
-Shell: bash
-Uptime: 21 years
-Python: 3.10
-GPU: Kaggle GPU
-Editor: VSCode, Cursor
-Terminal: Windows
-Languages: Python, C, Java, SQL
-Hobbies: Binging Movies, Series & Reading Manuhas 
-𝕏 : sourize_
+> Hi 👋🏼, I am Sourish!!
 ```
 ```python
 A little bit about me
@@ -22,6 +8,16 @@ An aspiring ML Engineer studying CSE with a Specialization in AI/ML
 Learning and upskilling myself regularly, understanding & implementing in my works.
 Check out my works in my github & my hugging face profile.
 ```
+
+Currently I am working on -
+- Prompt2Fram: An app which can turn simple prompts into geometric animations.
+- Deeptalks: An adapter for Phi-2 model that equips with short term conversational memory for context aware deept talks.
+- Hackfest: Qualified for the State Round!!
+
+ 
+Hobbies: Binging Movies, Series & Reading Manuhas... <br> 
+𝕏 : [sourize_](https://x.com/sourize_)
+
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
