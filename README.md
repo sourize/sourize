@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Sourish
 
-<div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=sourize&color=blueviolet&style=flat-square&label=Profile+Views)
   
@@ -11,7 +10,6 @@
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sourize_)
   [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/sourize)
   
-</div>
 
 ---
 
