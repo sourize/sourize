@@ -1,9 +1,9 @@
-# Hi there! 👋 I'm Sourish
+[<img src="" alt="Banner"/>](https://sourish.xyz)
 
   
   ![Profile Views](https://komarev.com/ghpvc/?username=sourize&color=blueviolet&style=flat-square&label=Profile+Views)
   
-  ### 🚀 Aspiring ML Engineer | AI/ML Enthusiast | Problem Solver
+  ### 🚀 mL  | architect | data 
   
   *"Turning ideas into intelligent solutions, one model at a time"*
   
@@ -40,28 +40,9 @@ class SourishProfile:
 
 ## 🔥 What I'm Building
 
-<table>
-<tr>
-<td width="50%">
+- I am currently working on a project of turning prompt into beautiful animations using pre-trained llm & mainm library.
 
-### 🎨 Prompt2Fram
-*Transform simple prompts into mesmerizing geometric animations*
-- **Tech Stack:** Python, Manim, FastAPI
-- **Status:** 🚧 In Development
-- **Goal:** Make animation accessible to everyone
-
-</td>
-<td width="50%">
-
-### 🧠 DeepTalks
-*Phi-2 adapter with conversational memory for context-aware dialogues*
-- **Tech Stack:** PyTorch, Transformers, NLP, Phi-2, LoRA.
-- **Status:** Deployed with 60+ downloads! [Check it out](https://dub.sh/deeptalks)
-- **Innovation:** Short-term memory for deeper conversations
-
-</td>
-</tr>
-</table>
+---
 
 ### 🏆 Recent Achievement
 > **Hackfest State Round Qualified!** 🎉 Successfully advanced to the state-level competition
