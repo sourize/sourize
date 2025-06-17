@@ -1,53 +1,13 @@
-[<img src="banner.png" alt="Banner"/>](https://sourish.xyz)
+<p align="center">
+  <a href="https://sourish.xyz">
+    <img src="https://github.com/sourize/sourish.xyz/blob/main/public/bannerdesign.png?raw=true" alt="Banner"/>
+  </a>
+</p>
+
 
   
   ![Profile Views](https://komarev.com/ghpvc/?username=sourize&color=blueviolet&style=flat-square&label=Profile+Views)
   
-  ### 🚀 mL  | architect | data 
-  
-  *"Turning ideas into intelligent solutions, one model at a time"*
-  
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sourize_)
-  [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/sourize)
-  
-
----
-
-## 🎯 About Me
-
-```python
-class SourishProfile:
-    def __init__(self):
-        self.name = "Sourish"
-        self.role = "ML Engineer in Making"
-        self.education = "CSE with AI/ML Specialization"
-        self.passion = "Building intelligent systems that matter"
-        self.philosophy = "Learn → Build → Share → Repeat"
-    
-    def current_focus(self):
-        return [
-            "Deep Learning & Neural Networks",
-            "Computer Vision & NLP",
-            "MLOps & Model Deployment",
-            "Open Source Contributions"
-        ]
-    
-    def fun_fact(self):
-        return "I debug code like I binge-watch series - with snacks and determination! 🍿"
-```
-
----
-
-## 🔥 What I'm Building
-
-- I am currently working on a project of turning prompt into beautiful animations using pre-trained llm & mainm library.
-
----
-
-### 🏆 Recent Achievement
-> **Hackfest State Round Qualified!** 🎉 Successfully advanced to the state-level competition
-
----
 
 ## 🛠️ Tech Arsenal
 
@@ -81,43 +41,15 @@ class SourishProfile:
 
 ---
 
-## 🎬 Beyond Code
-
-When I'm not training models or debugging algorithms, you'll find me:
-
-- 🎥 **Binge-watching** the latest sci-fi series and mind-bending movies
-- 📚 **Reading** tech blogs, research papers, and yes... manga! 
-- 🎮 **Gaming** and exploring virtual worlds
-- 🌱 **Learning** new technologies and frameworks
-
 > *"The best way to predict the future is to invent it"* - Alan Kay
 
 ---
 
-## 🤝 Let's Connect!
 
-<div align="center">
-
-**Always excited to collaborate on innovative AI/ML projects!**
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sourize_)
-
-</div>
-
----
-
-<div align="center">
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sourize/sourize/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sourize/sourize/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/sourize/sourize/output/github-snake.svg" />
   </picture>
   
-  ### ⭐ *Star my repositories if you find them interesting!*
   
-  ![](https://hit.yhype.me/github/profile?user_id=sourize)
-  
-</div>
