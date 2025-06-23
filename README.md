@@ -16,7 +16,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-sourishchatterjeeml-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/sourishchatterjeeml/)
 [![Medium Badge](https://img.shields.io/badge/-@sourize-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@sourize)
 [![Website Badge](https://img.shields.io/badge/-sourish.xyz-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://sourish.xyz)
-[![Twitter Badge](https://img.shields.io/badge/-@sourize_?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/sourize_)
+[![Twitter Badge](https://img.shields.io/badge/-@sourize_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sourize_)](https://twitter.com/sourize_)
 [![Instagram Badge](https://img.shields.io/badge/-@sourize._-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/sourize._)
 [![Gmail Badge](https://img.shields.io/badge/-Sourish-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.sourishchatterjee@gmail.com)](mailto:contact.sourishchatterjee@gmail.com)
   
