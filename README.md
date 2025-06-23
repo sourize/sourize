@@ -27,7 +27,7 @@ Thanks for visiting and I would love to connect on [LinkedIn](https://linkedin.c
 
 <div align="center">
 
-<h3>Generally my go to Stack</h3>
+<h3>Generally my go to stack</h3>
 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
