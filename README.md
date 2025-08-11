@@ -1,16 +1,16 @@
 <p align="center">
   <a href="https://sourish.xyz">
-    <img src="https://github.com/user-attachments/assets/ed6af4b7-a1cf-48b2-ba5c-79356122ac40" alt="Banner"/>
+    <img src="https://github.com/user-attachments/assets/e6f7dcd8-60a9-4f4b-98ac-d19d62ad1907" alt="Banner"/>
   </a>
 </p>
 
 
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=sourize&color=blueviolet&style=flat-square&label=Profile+Views)
+
 
   ---
   
-  ## Hi I am Sourish!!
+  ## Hi I am Sourish!!   ![Profile Views](https://komarev.com/ghpvc/?username=sourize&color=blueviolet&style=flat-square&label=Profile+Views)
   
   
 [![Linkedin Badge](https://img.shields.io/badge/-sourishchatterjeeml-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/sourishchatterjeeml/)
@@ -21,7 +21,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Sourish-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.sourishchatterjee@gmail.com)](mailto:contact.sourishchatterjee@gmail.com)
   
 
-Welcome to my profile! I'm a student, aspiring ml enginner with an intrest in analysis of data as well. Check out my projects mainly based on deep learning, nlp and data analysis. 
+Welcome to my profile! I'm a student, aspiring enginner with an intrest in backend , data analysis and machine learning engineering. Check out my projects mainly based on backend ~ pipelines, frameworks, deep learning, nlp and data analysis. 
 Thanks for visiting and I would love to connect on [LinkedIn](https://linkedin.com/in/sourishchatterjeeml) and [𝕏](https://x.com/sourize_)
 
 
@@ -29,7 +29,7 @@ Thanks for visiting and I would love to connect on [LinkedIn](https://linkedin.c
 
 <h3>Generally my go to stack</h3>
 
-  <!-- Languages -->
+  <!-- Languages --> 
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
