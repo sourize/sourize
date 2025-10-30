@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://sourish.xyz">
-    <img src="https://github.com/user-attachments/assets/e6f7dcd8-60a9-4f4b-98ac-d19d62ad1907" alt="Banner"/>
+  <a href="https://sourish.me">
+    <img src="https://github.com/user-attachments/assets/76af0979-1bf3-4a37-af4d-638e3b3685f8" alt="Banner"/>
   </a>
 </p>
 
