@@ -1,29 +1,30 @@
-<p align="center">
-  <a href="https://sourish.me">
-    <img src="https://github.com/user-attachments/assets/76af0979-1bf3-4a37-af4d-638e3b3685f8" alt="Banner"/>
-  </a>
-</p>
+<div align="center">
+
+```
+ ███████╗  ██████╗  ██╗   ██╗ ██████╗  ██╗ ███████╗ ██╗  ██╗
+ ██╔════╝ ██╔═══██╗ ██║   ██║ ██╔══██╗ ██║ ██╔════╝ ██║  ██║
+ ███████╗ ██║   ██║ ██║   ██║ ██████╔╝ ██║ ███████╗ ███████║
+ ╚════██║ ██║   ██║ ██║   ██║ ██╔══██╗ ██║ ╚════██║ ██╔══██║
+ ███████║ ╚██████╔╝ ╚██████╔╝ ██║  ██║ ██║ ███████║ ██║  ██║
+ ╚══════╝  ╚═════╝   ╚═════╝  ╚═╝  ╚═╝ ╚═╝ ╚══════╝ ╚═╝  ╚═╝
+```
+
+</div>
+
+---
+
+## Hi I am Sourish!!   ![Profile Views](https://komarev.com/ghpvc/?username=sourize&color=blueviolet&style=flat-square&label=Profile+Views)
 
 
-  
+[![Linkedin Badge](https://img.shields.io/badge/-sourishchatterjeeml-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sourishchatterjeeml/)](https://www.linkedin.com/in/sourishchatterjeeml/)
+[![Medium Badge](https://img.shields.io/badge/-@sourize-12100E?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@sourize)](https://medium.com/@sourize)
+[![Website Badge](https://img.shields.io/badge/-sourish.me-FF6B6B?style=flat&logo=Google-Chrome&logoColor=white&link=https://sourish.me)](https://sourish.me)
+[![Twitter Badge](https://img.shields.io/badge/-@sourize_-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/sourize_)](https://twitter.com/sourize_)
+[![Instagram Badge](https://img.shields.io/badge/-@sourize._-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sourize._)](https://instagram.com/sourize._)
+[![Gmail Badge](https://img.shields.io/badge/-Sourish-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.sourishchatterjee@gmail.com)](mailto:contact.sourishchatterjee@gmail.com)
 
-
-  ---
-  
-  ## Hi I am Sourish!!   ![Profile Views](https://komarev.com/ghpvc/?username=sourize&color=blueviolet&style=flat-square&label=Profile+Views)
-  
-  
-[![Linkedin Badge](https://img.shields.io/badge/-sourishchatterjeeml-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/sourishchatterjeeml/)
-[![Medium Badge](https://img.shields.io/badge/-@sourize-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@sourize)
-[![Website Badge](https://img.shields.io/badge/-sourish.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://sourish.me)
-[![Twitter Badge](https://img.shields.io/badge/-@sourize_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sourize_)](https://twitter.com/sourize_)
-[![Instagram Badge](https://img.shields.io/badge/-@sourize._-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/sourize._)
-[![Gmail Badge](https://img.shields.io/badge/-Sourish-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact.sourishchatterjee@gmail.com)](mailto:contact.sourishchatterjee@gmail.com)
-  
-
-Welcome to my profile! I'm a student, aspiring enginner with an intrest in backend , data analysis and machine learning engineering. Check out my projects mainly based on backend ~ pipelines, frameworks, deep learning, nlp and data analysis. 
+Welcome to my profile! I'm a student, aspiring engineer with an interest in backend, data analysis and machine learning engineering. Check out my projects mainly based on backend ~ pipelines, frameworks, deep learning, nlp and data analysis. 
 Thanks for visiting and I would love to connect on [LinkedIn](https://linkedin.com/in/sourishchatterjeeml) and [𝕏](https://x.com/sourize_)
-
 
 <div align="center">
 
@@ -62,7 +63,7 @@ Thanks for visiting and I would love to connect on [LinkedIn](https://linkedin.c
 
 
 ---
-<div align="center"
+<div align="center">
 
 > *"The best way to predict the future is to invent it"* - Alan Kay
 
